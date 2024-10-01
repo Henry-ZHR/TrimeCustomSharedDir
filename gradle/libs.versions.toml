@@ -1,0 +1,5 @@
+[libraries]
+xposed-api = { group = "de.robv.android.xposed", name = "api", version = "82" }
+
+[plugins]
+android-application = { id = "com.android.application", version = "8.6.1" }

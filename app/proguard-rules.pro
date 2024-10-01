@@ -1,0 +1,1 @@
+-keep class moe.henry_zhr.trime_custom_shared_dir.MainHook
